@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-technographics",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Technographics — what a website is built with, read from the page itself.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6f011287eb680815a1b1d8d223a3e86473f702d295ed06aa60fe5056bf9d1d00",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-d0abeada66a22ba65020730fc4b5f877a2fa8629834828ad7a4247b59361575e",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
